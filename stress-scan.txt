@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Thrive With Kaushik - Stress Management Coach in Delhi, NCR, Mumbai, Bangalore, Hyderabad</title>
+<a href="index.html">Back to Home</a>
+
+  <meta name="description" content="Transform your life with Lalit Kaushik's expert stress management coaching for VIP professionals in Delhi, NCR, Mumbai, Bangalore, Hyderabad. Book your Stress Scan session and take the first step towards a stress-free life." />
+  <meta name="keywords" content="stress management coach Delhi, stress scan NCR, stress relief Mumbai, life coach Bangalore, anxiety Hyderabad, executive stress, founder, director, lawyer, doctor, engineer, management professional, corporate stress, VIP stress management" />
+  <style>
+    body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin: 0; background: #f9fafc; color: #1f2937; }
+    header, footer { background: #1e40af; color: #fff; text-align: center; padding: 1.2rem 1rem; }
+    main { max-width: 900px; margin: 2rem auto; background: #fff; border-radius: 16px; box-shadow: 0 6px 24px rgba(30, 64, 175, 0.10); padding: 2rem 1rem; }
+    h1, h2, h3 { color: #1e40af; margin-top: 0; }
+    .highlight { color: #f59e0b; font-weight: 700; }
+    .offer-box { background: #fde68a; border-left: 6px solid #fbbf24; padding: 1rem 1.5rem; font-size: 1.15rem; font-weight: 700; border-radius: 8px; text-align: center; margin: 2rem 0; }
+    ul { margin-bottom: 1.25rem; }
+    li { margin-bottom: 0.75rem; }
+    button.book-btn { background: #1e40af; color: white; font-size: 1.2rem; font-weight: 600; padding: 1rem 2.8rem; border: none; border-radius: 32px; cursor: pointer; display: block; margin: 2rem auto 1.5rem; box-shadow: 0 6px 18px rgba(30, 64, 175, 0.16); transition: background-color 0.3s, color 0.3s; text-align: center; }
+    button.book-btn:hover, button.book-btn:focus { background: #fbbf24; color: #1e40af; outline: none; }
+    .cities { font-size: 0.95rem; color: #0e7490; margin-bottom: 2rem; }
+    .why { margin-top: 2rem; }
+    @media (max-width: 600px) {
+      main { margin: 1rem; padding: 1rem 0.5rem; }
+      button.book-btn { font-size: 1.1rem; padding: 1rem; width: 100%; }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Thrive With Kaushik</h1>
+    <div class="cities">Serving: Delhi, NCR, Mumbai, Bangalore, Hyderabad &
+      all major business hubs</div>
+    <h2>Stress Management Coach for VIP Professionals</h2>
+  </header>
+  <main>
+    <section>
+      <h3>Transform Your Life with Lalit Kaushik's Expert Guidance</h3>
+      <p>
+        As a founder, director, management executive, lawyer, doctor, engineer or high-achieving professional, you're expected to perform at your best. Stress can hold you back—impacting efficiency, relationships, and overall well-being. <b>Don't let stress control your life!</b>
+        <br><br>
+        Take the first step towards a stress-free life with Thrive With Kaushik, available in Delhi, NCR, Mumbai, Bangalore, Hyderabad and beyond.
+      </p>
+      <div class="offer-box">
+        <b>Limited Time Offer: ₹4,999 (Original Price: ₹15,000)</b><br>
+        30–40 Minute Personalized Stress Scan
+      </div>
+    </section>
+    <section>
+      <h3>Stress Scan Service - Know Your Stress Status</h3>
+      <p>
+        Our expert coach, Lalit Kaushik, will listen to your concerns—no pressure, just care and confidentiality. We provide a safe, comfortable space to open up. <span class="highlight">No medication, no chemicals</span>—our approach empowers you to tap into your inner strength and natural resilience.
+      </p>
+      <ul>
+        <li>Identify stress patterns and triggers</li>
+        <li>Improve efficiency and productivity</li>
+        <li>Enhance teamwork and workplace relationships</li>
+        <li>Reduce anxiety, fear, and apprehension</li>
+        <li>Boost motivation and overall well-being</li>
+      </ul>
+      <p>
+        Stress symptoms—like anxiety, overthinking, apprehension, headaches, and even heart issues—can be the root cause behind anger, lack of teamwork, low efficiency, and poor decision-making.<br><br>
+        The <span class="highlight">Stress Scan</span> is your gateway to discovering your stress status and starting your transformation.
+      </p>
+      <button class="book-btn" onclick="window.location.href='https://wa.me/919953715382?text=I%20want%20to%20book%20a%20Stress%20Scan%20session%20with%20Thrive%20With%20Kaushik'">
+        Book Your Stress Scan Now
+      </button>
+    </section>
+    <section>
+      <h3>100% Satisfaction Guarantee</h3>
+      <p>
+        Not satisfied as a first-time client? Get a <span class="highlight">full refund</span>—no questions asked. Our aim is to support and empower every professional who wants a new dimension of life.
+      </p>
+    </section>
+    <section class="why">
+      <h3>Why Choose Thrive With Kaushik?</h3>
+      <ul>
+        <li>Expert coaching from Lalit Kaushik, renowned stress management specialist</li>
+        <li>Tailored approach for each client—directors, founders, management executives, lawyers, doctors, and professionals</li>
+        <li>Safe, confidential, and non-judgmental space to share your concerns</li>
+        <li>Science-backed techniques to enhance motivation and manage stress naturally</li>
+      </ul>
+      <p>
+        Don't let stress define you. <b>Take control of your life</b>. Discover a new dimension of fulfillment and success with Thrive With Kaushik.
+      </p>
+    </section>
+  </main>
+  <footer>
+    <p><b>Contact Us:</b></p>
+    <p>Phone: 9953715382</p>
+    <p>Email: thrivewithkaushik@gmail.com</p>
+    <p>Website: www.thrivewithkaushik.com</p>
+  </footer>
+</body>
+</html>
